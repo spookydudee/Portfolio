@@ -19,8 +19,8 @@ function About() {
                                Pretty much into Anime, Photography, and Cinematography.
                             </p>
                             <p className='slide-in-bottom'>
-                                The technology I've worked on: Html, CSS, Js, Bootstrap,<br></br>
-                                 nodejs, express, react</span>
+                                The technology I've worked on : <span className="text-red ls-2">Html, CSS, Js, Bootstrap,<br></br>
+                                 <span>nodejs, express, react</span>
                             </p>
                             <p className='slide-in-bottom'>
                               Currently, Learning React Js Library.
