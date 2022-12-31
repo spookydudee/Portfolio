@@ -1,15 +1,3 @@
-# React Portfolio, Multiple pages
-
-## Features
-
-• Multi-Page Layout
-
-• Modern Design
-
-• React-Icons
-
-• Illustrations
-
 ## How to use
 
 ① fork the repository and clone locally
