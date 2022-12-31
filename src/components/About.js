@@ -11,7 +11,7 @@ function About() {
                         <div>
                             <h1 className="font-big text-red slide-in-top">About me</h1>
                             <hr></hr>
-                            <p className='slide-in-bottom'>2nd year Undergrad and Natonal Institute of Technology <br></br>
+                            <p className='slide-in-bottom'>2nd year Undergrad and National Institute of Technology <br></br>
                                 pursuing Electronics and Communication Engineering.
                             </p>
                             <p className='slide-in-bottom'>
