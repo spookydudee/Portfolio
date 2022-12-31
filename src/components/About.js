@@ -11,19 +11,19 @@ function About() {
                         <div>
                             <h1 className="font-big text-red slide-in-top">About me</h1>
                             <hr></hr>
-                            <p className='slide-in-bottom'>2nd year Undergrad and National Institute of Technology <br></br>
-                                pursuing Electronics and Communication Engineering.
+                            <p className='slide-in-bottom'>2nd-year Undergrad at the National Institute of Technology Rourkela<br></br>
+                               pursuing Electronics and Communication Engineering.
                             </p>
                             <p className='slide-in-bottom'>
-                                Currently inclined towards Programinng and Development<br></br>
-                                Pretty much into Anime, Photography and Cinematography.
+                                Currently inclined toward programming and Development<br></br>
+                               Pretty much into Anime, Photography, and Cinematography.
                             </p>
                             <p className='slide-in-bottom'>
-                                The technology I've worked on : <span className="text-red ls-2">Html, Css, Js, Bootstrap, <br></br>
+                                The technology I've worked on: Html, CSS, Js, Bootstrap,<br></br>
                                  nodejs, express, react</span>
                             </p>
                             <p className='slide-in-bottom'>
-                                Currently Learning React Js Library
+                              Currently, Learning React Js Library.
                             </p>
                         </div>
                     </div>
