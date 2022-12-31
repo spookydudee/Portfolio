@@ -20,7 +20,7 @@ function About() {
                             </p>
                             <p className='slide-in-bottom'>
                                 The technology I've worked on : <span className="text-red ls-2">Html, CSS, Js, Bootstrap,<br></br>
-                                 <span>nodejs, express, react</span>
+                                 nodejs, express, react</span>
                             </p>
                             <p className='slide-in-bottom'>
                               Currently, Learning React Js Library.
